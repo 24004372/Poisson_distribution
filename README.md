@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# Exp 2: Fitting Poisson  distribution
 # Date:29.04.25
 
 # Aim : 
