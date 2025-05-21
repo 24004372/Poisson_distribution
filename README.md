@@ -1,6 +1,9 @@
 # Exp 2: Fitting Poisson  distribution
-# Date:29.04.25
+## DEVELOPED BY : SHRIRAM VR
+## REG NO : 212224040314
+## DEPT : BE CSE
 
+# Date:14.03.2025
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
